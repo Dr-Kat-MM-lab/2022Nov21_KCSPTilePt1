@@ -1,2 +1,2 @@
-# 2022Nov21_KCSPTilePt1
-KCSPTilePt1 Sequencing data
+# KCSPTilePt1 Sequencing data
+Created by Sihan Bu.
